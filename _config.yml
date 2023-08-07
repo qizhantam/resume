@@ -37,10 +37,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/portrait.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Quentin and I'm a robotics software engineer. I specialize in developing behavior and motion planning algorithms for safe autonomous driving with hands-on experience being the safety engineer for tests and demomstrations. 
-  As well as planning algorithms, I'm also familiar with the system-level integration of the robotics stack, having been tasked for coordinating large code releases and diagnosing issues.
+  Hi, my name's Quentin and I'm a robotics software engineer. I specialize in developing behavior and motion planning algorithms for safe autonomous driving with hands-on experience being the safety engineer for tests and demonstrations. I'm also familiar with the system-level integration of the robotics stack, having been tasked for coordinating large code releases and diagnosing major issues.
 
-  I am most skilled in: <mark>Robotics</mark>, <mark>ROS</mark>, <mark>C++</mark>, and helping others <mark>debug</mark> their seg faults.
+  I am most skilled in: <mark>Robotics</mark>, <mark>ROS</mark>, <mark>C++</mark>, and helping others <mark>debug</mark> seg faults.
 
 content:
   - title: Projects # Title for the section
