@@ -41,7 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
   I specialize in developing behavior and motion planning algorithms for safe autonomous driving with hands-on experience being the safety engineer for tests and demonstrations. 
   I also have experience with the system-level integration of the AV software stack, having led projects for system upgrades and coordinated major code releases between teams.
 
-  I am most skilled in: <mark>Robotics</mark>, <mark>ROS</mark>, <mark>C++</mark>, and general <mark>debugging</mark>.
+  I am most skilled in: <mark>Robotics</mark>, <mark>ROS</mark>, <mark>C++</mark>, and <mark>debugging</mark> seg faults.
 
 content:
   - title: Projects # Title for the section
